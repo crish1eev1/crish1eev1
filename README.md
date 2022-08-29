@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M4URIC3-afk
 - 👀 I’m interested in improving my understanding of the world
-- 🌱 I’m currently learning data analytics (SQL and python libraries)
-- 💞️ I’m looking to collaborate on any beginner accessible project about data analytics 
+- 🌱 I’m currently improving my data analysis and programming skills
+- 💞️ I’m looking to collaborate on any data analytics project
 - 📫 How to reach me - nicely :)
 
 <!---
